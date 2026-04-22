@@ -2,6 +2,7 @@ import numpy as np
 from models.layers import Conv2D, MaxPool2D, Flatten, Dense
 from models.activations import relu, softmax
 
+# Conv → ReLU → Pool → Flatten → Dense → Softmax
 class SimpleCNN:
     def __init__(self):
         # Layers
