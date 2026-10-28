@@ -108,8 +108,7 @@ python main.py
 
 ## 👨‍💻 Author
 
-* Vaishnavi Bhagat
-(Group members: Shloka Bendke, Devyani Ayare, Manasi Auchatkar)
+* Group members: Vaishnavi Bhagat, Shloka Bendke, Devyani Ayare, Manasi Auchatkar
 
 ---
 
